@@ -15,7 +15,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;lzy+guy;Freelancer;CSE+Sophomore)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;lzy+guy;Freelancer)
 
 
 <p align="center">
