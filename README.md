@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on ```Game develpment using C#```
 - 🌱 I’m currently learning  ```C#```  
 - 👯 I’m looking to collaborate on:  ```Desktop Applications```
-- 📫 How to reach me: ping me at my discord <a  href="https://discordapp.com/users/hrick_09#0602">hrick_09#0602</a>
+- 📫 How to reach me: ping me at my Twitter <a  href="https://twitter.com/hrick_09">hrick_09</a>
 - 😄 Pronouns: him/his
 - ⚡ Fun fact: will do anything to make my life ezy
 
