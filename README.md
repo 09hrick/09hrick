@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: ping me at my discord <a href="https://discordapp.com/users/hrick_09#0602">hrick_09#0602</a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: him/his
+- ⚡ Fun fact: will do anything to make my life ezy
 
 
 
