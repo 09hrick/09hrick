@@ -3,9 +3,10 @@
 
 <!-- Here are some ideas to get you started: -->
 <img align="right" src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif?cid=ecf05e47ighpvzdwv6f01l1h8kywzqo1dqa1lvvpna7h7mxr&rid=giphy.gif&ct=s" />
--🔭 I’m currently working on ```Game develpment using C#```
--🌱 I’m currently learning  ```C#```  
--👯 I’m looking to collaborate on:  ```Desktop Applications```
+
+- 🔭 I’m currently working on ```Game develpment using C#```
+- 🌱 I’m currently learning  ```C#```  
+- 👯 I’m looking to collaborate on:  ```Desktop Applications```
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: ping me at my discord <a href="https://discordapp.com/users/hrick_09#0602">hrick_09#0602</a>
@@ -14,7 +15,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Competetive+Programmer;Freelancer;CSE+Sophomore)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;lzy guy;Freelancer;CSE+Sophomore)
 
 
 <p align="center">
