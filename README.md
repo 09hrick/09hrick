@@ -11,7 +11,15 @@
 - 😄 Pronouns: him/his
 - ⚡ Fun fact: will do anything to make my life ezy
 
+<div>
 
+<!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/BhavyaCodes?label=follow&logo=github&style=flat-square"> -->
+
+![](https://img.shields.io/github/followers/09hrick?label=follow&logo=github&style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/09hrick?label=%E2%AD%90GitHub%20stars&style=flat-square)
+![](https://komarev.com/ghpvc/?username=09hrick&style=flat-square&color=ff69b4)
+
+</div>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;lzy+guy;Freelancer)
 
