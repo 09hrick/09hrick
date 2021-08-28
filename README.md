@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**09hrick/09hrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **09hrick/09hrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 <img align="right" src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif?cid=ecf05e47ighpvzdwv6f01l1h8kywzqo1dqa1lvvpna7h7mxr&rid=giphy.gif&ct=s" />
