@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=09hrick&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="09hrick :: Top Langs" />
 </p>
+
 ![](https://activity-graph.herokuapp.com/graph?username=09hrick&theme=github)
