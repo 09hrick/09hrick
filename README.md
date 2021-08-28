@@ -1,10 +1,10 @@
 ### Hi there <img width="40" src="https://media.giphy.com/media/TFZpl4btFODjSbwAKS/giphy.gif?cid=ecf05e47xdmu2xuqb16snunw1dug4cyd94cttqt7bm1m6ybk&rid=giphy.gif&ct=s" />
 <!-- **09hrick/09hrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 <img align="right" src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif?cid=ecf05e47ighpvzdwv6f01l1h8kywzqo1dqa1lvvpna7h7mxr&rid=giphy.gif&ct=s" />
 - 🔭 I’m currently working on ```Game develpment using C#```
-- 🌱 I’m currently learning ```C#```
+- 🌱 I’m currently learning ```C#```  
 - 👯 I’m looking to collaborate on: ```Desktop Applications```
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
